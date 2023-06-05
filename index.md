@@ -1,4 +1,4 @@
-﻿**Painel Informativo - Avengers:**
+# **Painel Informativo - Avengers**
 
 **Sobre a torre Avengers:**
 
